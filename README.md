@@ -5,4 +5,4 @@ Các buổi học:
 - [Buổi 2](https://github.com/k1enn/Web_Programming/tree/main/Buoi2)
 - [Buổi 3](https://github.com/k1enn/Web_Programming/tree/main/Buoi3)
 
-Coi kết quả [ở đây](https://k1enn.github.io/Web_Programming/route.html)
+Coi kết quả [ở đây](https://k1enn.github.io/Web_Programming/main.html)

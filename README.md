@@ -1,4 +1,4 @@
-# Website Programming
+# Lập trình Web
 
 ## Mô tả
 Dự án này lưu lại lời giải tự làm cho môn Lập trình Web thực hành, bao gồm các bài tập và giải pháp cho từng buổi học. Mục tiêu của dự án là giúp người học nắm bắt kiến thức về lập trình web thông qua các bài thực hành chi tiết và cụ thể.

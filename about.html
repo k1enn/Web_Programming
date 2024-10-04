@@ -8,18 +8,11 @@
     <style>
         a {
             text-decoration: none;
-            color: #adb4bb;
+            color: #55575a;
+            font-size: large;
         }
         .links {
             margin: 20px 0;
-        }
-        
-        .btn.btn-primary {
-            background-color: #55575a;
-            border: 0;
-        }
-        .btn.btn-primary:hover {
-            background-color: #adb4bb;
         }
         
         .profile-container {
@@ -28,36 +21,36 @@
     </style>
 </head>
 <body>
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
-        <div class="container-fluid">
-          <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-              <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="main.html">General</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="about.html">About Me</a>
-              </li>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-dark bg-dark">
+            <a style="margin-left: 1%; margin-right: 1%;" class="navbar-brand" href="main.html">Home</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+            </button>
+        
+            <div  style="margin-right: 1%;" class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item active">
+                <a class="nav-link" href="about.html">About</a>
+                </li>
             </ul>
-          </div>
-        </div>
-      </nav>
+            </div>
+        </nav>
+    </header>
+
     <div class="container text-left">
         <div class="profile-container">
             <h1 class="text-center">Thông tin của tôi</h1>
           </div>
-        <div style="margin-left: 40%; margin-right:40%;" class="links">
-            <p><strong>GitHub:</strong> 
-                <a href="https://github.com/k1enn" class="btn btn-primary" target="_blank">k1enn</a>
+        <div class="links text-center">
+            <p>
+                <strong><a href="https://github.com/k1enn" target="_blank">GitHub</a></strong>
             </p>
-            <p><strong>CodeForces:</strong> 
-                <a href="https://codeforces.com/profile/dinhtrungkien" class="btn btn-primary">dinhtrungkien</a>
+            <p>
+                <strong><a href="https://codeforces.com/profile/dinhtrungkien" target="_blank">CodeForces</a></strong>
             </p>
-            <p><strong>LinkedIn:</strong> 
-                <a href="https://www.linkedin.com/in/ki%C3%AAn-trung-1645b532a/" class="btn btn-primary" target="_blank">Kiên Trung</a>
-            </p>
-            <p><strong>School:</strong> 
-                <span class="btn btn-primary">HUFLIT</span>
+            <p>
+                <strong><a href="https://www.linkedin.com/in/ki%C3%AAn-trung-1645b532a/" target="_blank">LinkedIn</a></strong>
             </p>
         </div>
 

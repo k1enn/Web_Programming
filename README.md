@@ -1,4 +1,4 @@
-# Web_Programming
+# Website Programming
 Lưu lại lời giải tự làm ở môn Lập trình Web thực hành
 
 Các buổi học:

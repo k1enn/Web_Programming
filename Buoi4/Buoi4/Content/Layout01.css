@@ -43,7 +43,7 @@ body {
     /* Cột bên trái */
     .left {
         width: 20%;
-        //background-color: thistle;
+        background-color: thistle;
         background-color: #f1f1f1;
     }
     /* Cột chính giữa */
@@ -57,7 +57,7 @@ body {
     .right {
         width: 20%;
         background-color: #f1f1f1;
-        //background-color: thistle;
+        background-color: thistle;
     }
 /* menu left */
 .left ul {

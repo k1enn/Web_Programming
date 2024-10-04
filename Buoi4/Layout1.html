@@ -56,6 +56,7 @@
     </div>
 
     <script>
+        // Tạo cho trang web phản hồi, thay đổi div center khi click vào nav bar
         document.querySelectorAll('.topnav a').forEach(link => {
             link.addEventListener('click', function(event) {
                 event.preventDefault();
@@ -72,7 +73,7 @@
             });
         });
 
-        // Optionally, load a default page (e.g., Trang Chủ) when the page first loads.
+        // Trang container mặc định khi load
         window.onload = function() {
             fetch('index.html')
                 .then(response => response.text())

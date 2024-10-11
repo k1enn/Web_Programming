@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "D:\\LapTrinhWeb\\Web_TH\\Web_Programming\\Buoi4\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7FD19695-B687-47BD-B7B5-A3F0A382B01B}|Buoi4\\Buoi4.csproj|d:\\laptrinhweb\\web_th\\web_programming\\buoi4\\buoi4\\content\\layout01.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7FD19695-B687-47BD-B7B5-A3F0A382B01B}|Buoi4\\Buoi4.csproj|solutionrelative:buoi4\\content\\layout01.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD19695-B687-47BD-B7B5-A3F0A382B01B}|Buoi4\\Buoi4.csproj|D:\\LapTrinhWeb\\Web_TH\\Web_Programming\\Buoi4\\buoi4\\views\\trangchu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FD19695-B687-47BD-B7B5-A3F0A382B01B}|Buoi4\\Buoi4.csproj|solutionrelative:buoi4\\views\\trangchu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7FD19695-B687-47BD-B7B5-A3F0A382B01B}|Buoi4\\Buoi4.csproj|D:\\LapTrinhWeb\\Web_TH\\Web_Programming\\Buoi4\\buoi4\\views\\trangchu\\daotao.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7FD19695-B687-47BD-B7B5-A3F0A382B01B}|Buoi4\\Buoi4.csproj|solutionrelative:buoi4\\views\\trangchu\\daotao.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7FD19695-B687-47BD-B7B5-A3F0A382B01B}|Buoi4\\Buoi4.csproj|D:\\LapTrinhWeb\\Web_TH\\Web_Programming\\Buoi4\\buoi4\\views\\trangchu\\khoacntt.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7FD19695-B687-47BD-B7B5-A3F0A382B01B}|Buoi4\\Buoi4.csproj|solutionrelative:buoi4\\views\\trangchu\\khoacntt.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FD19695-B687-47BD-B7B5-A3F0A382B01B}|Buoi4\\Buoi4.csproj|D:\\LapTrinhWeb\\Web_TH\\Web_Programming\\Buoi4\\buoi4\\views\\trangchu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7FD19695-B687-47BD-B7B5-A3F0A382B01B}|Buoi4\\Buoi4.csproj|solutionrelative:buoi4\\views\\trangchu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7FD19695-B687-47BD-B7B5-A3F0A382B01B}|Buoi4\\Buoi4.csproj|D:\\LapTrinhWeb\\Web_TH\\Web_Programming\\Buoi4\\buoi4\\views\\shared\\layout1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -46,11 +50,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "TrangchuController.cs",
               "DocumentMoniker": "D:\\LapTrinhWeb\\Web_TH\\Web_Programming\\Buoi4\\Buoi4\\Controllers\\TrangchuController.cs",
               "RelativeDocumentMoniker": "Buoi4\\Controllers\\TrangchuController.cs",
@@ -64,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\LapTrinhWeb\\Web_TH\\Web_Programming\\Buoi4\\Buoi4\\Views\\Trangchu\\Index.cshtml",
               "RelativeDocumentMoniker": "Buoi4\\Views\\Trangchu\\Index.cshtml",
@@ -78,7 +82,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "KhoaCNTT.cshtml",
               "DocumentMoniker": "D:\\LapTrinhWeb\\Web_TH\\Web_Programming\\Buoi4\\Buoi4\\Views\\Trangchu\\KhoaCNTT.cshtml",
               "RelativeDocumentMoniker": "Buoi4\\Views\\Trangchu\\KhoaCNTT.cshtml",
@@ -92,7 +96,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Layout1.cshtml",
               "DocumentMoniker": "D:\\LapTrinhWeb\\Web_TH\\Web_Programming\\Buoi4\\Buoi4\\Views\\Shared\\Layout1.cshtml",
               "RelativeDocumentMoniker": "Buoi4\\Views\\Shared\\Layout1.cshtml",
@@ -106,7 +110,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Daotao.cshtml",
               "DocumentMoniker": "D:\\LapTrinhWeb\\Web_TH\\Web_Programming\\Buoi4\\Buoi4\\Views\\Trangchu\\Daotao.cshtml",
               "RelativeDocumentMoniker": "Buoi4\\Views\\Trangchu\\Daotao.cshtml",
@@ -119,6 +123,19 @@
               "EditorCaption": ""
             },
             {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Layout01.css",
+              "DocumentMoniker": "D:\\LapTrinhWeb\\Web_TH\\Web_Programming\\Buoi4\\Buoi4\\Content\\Layout01.css",
+              "RelativeDocumentMoniker": "Buoi4\\Content\\Layout01.css",
+              "ToolTip": "D:\\LapTrinhWeb\\Web_TH\\Web_Programming\\Buoi4\\Buoi4\\Content\\Layout01.css",
+              "RelativeToolTip": "Buoi4\\Content\\Layout01.css",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAswGoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-04T00:54:15.585Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
@@ -128,7 +145,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Web.config",
               "DocumentMoniker": "D:\\LapTrinhWeb\\Web_TH\\Web_Programming\\Buoi4\\Buoi4\\Views\\Web.config",
               "RelativeDocumentMoniker": "Buoi4\\Views\\Web.config",
@@ -140,7 +157,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "FilterConfig.cs",
               "DocumentMoniker": "D:\\LapTrinhWeb\\Web_TH\\Web_Programming\\Buoi4\\Buoi4\\App_Start\\FilterConfig.cs",
               "RelativeDocumentMoniker": "Buoi4\\App_Start\\FilterConfig.cs",
@@ -152,7 +169,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "RouteConfig.cs",
               "DocumentMoniker": "D:\\LapTrinhWeb\\Web_TH\\Web_Programming\\Buoi4\\Buoi4\\App_Start\\RouteConfig.cs",
               "RelativeDocumentMoniker": "Buoi4\\App_Start\\RouteConfig.cs",
@@ -164,7 +181,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "D:\\LapTrinhWeb\\Web_TH\\Web_Programming\\Buoi4\\Buoi4\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Buoi4\\Views\\_ViewStart.cshtml",

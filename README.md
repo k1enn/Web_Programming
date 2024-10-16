@@ -19,7 +19,7 @@ Dự án này lưu lại lời giải tự làm cho môn Lập trình Web thực
 - [Buổi 4](https://github.com/k1enn/Web_Programming/tree/main/Buoi4) - **ASP.NET MVC cơ bản**
   - Cấu trúc của một ứng dụng ASP.NET MVC.
   - Cách sử dụng Razor để kết hợp giữa HTML và C#.
-
+- **Từ buổi 5 trở đi, trường dùng .NET Framework nên Github không thể xem**
 ## Kết quả
 Xem kết quả thực hành của các buổi học thông qua trang web được triển khai tại đây: [Coi kết quả](https://shorturl.at/uE37V)
 

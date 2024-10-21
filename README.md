@@ -23,6 +23,8 @@ Dự án này lưu lại lời giải tự làm cho môn Lập trình Web thực
 - [Buổi 6](https://github.com/k1enn/Web_Programming/tree/main/Buoi6) - **ASP.NET MVC**
   - Sửa lại lỗi của buổi trước
   - Chỉnh sửa giao diện
+- [Buổi 7](https://github.com/k1enn/Web_Programming/tree/main/Buoi7/DBStoreSport)
+  - Thêm chức năng giỏ hàng
 ## Kết quả
 Xem kết quả thực hành của các buổi học thông qua trang web được triển khai tại đây: [Coi kết quả](https://shorturl.at/uE37V)
 

@@ -1,4 +1,18 @@
-# Lập trình Web
+<h1 align="center">Web Programming</h1>
+<div align="center">
+  <h3>Follow me: </h3>
+</div>
+
+<div align="center">
+  <p>
+    <img src="https://github.com/k1enn/Web_Programming/blob/main/Buoi1/Bai01/images/github.png" alt="GitHub Logo" width="20" height="20" />
+    <strong><a style="text-decoration:none;" href="https://github.com/k1enn" target="_blank">GitHub</a></strong>
+    <img style="padding-left: 10px; " src="https://github.com/k1enn/Web_Programming/blob/main/Buoi1/Bai01/images/codeforces.png" alt="Codeforces Logo" width="20" height="20" />
+    <strong><a style="text-decoration:none;" href="https://codeforces.com/profile/dinhtrungkien" target="_blank">Codeforces</a></strong>
+    <img style="padding-left: 10px;" src="https://github.com/k1enn/Web_Programming/blob/main/Buoi1/Bai01/images/linkedin.png" alt="LinkedIn Logo" width="20" height="20" />
+    <strong><a style="text-decoration:none;" href="https://www.linkedin.com/in/k1enn/" target="_blank">LinkedIn</a></strong>
+  </p>
+</div>
 
 ## Mô tả
 Dự án này lưu lại lời giải tự làm cho môn Lập trình Web thực hành, bao gồm các bài tập và giải pháp cho từng buổi học. Mục tiêu của dự án là giúp người học nắm bắt kiến thức về lập trình web thông qua các bài thực hành chi tiết và cụ thể.

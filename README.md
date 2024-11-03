@@ -42,10 +42,16 @@ Dự án này lưu lại lời giải tự làm cho môn Lập trình Web thực
 ## Kết quả
 Xem kết quả thực hành của các buổi học thông qua trang web được triển khai tại đây: [Coi kết quả](https://shorturl.at/uE37V)
 
-## Disclaimer / Thông báo
-This project was created with the assistance of AI to enhance certain solutions and explanations.
+### Thông Báo Pháp Lý
 
-Dự án này được tạo ra với sự hỗ trợ của AI để cải thiện một số giải pháp và lời giải thích.
+Kho lưu trữ này được tạo ra với mục đích giáo dục. Nó chứa các kết quả và lời giải liên quan đến Cấu trúc Dữ liệu và Giải thuật (DSA) dành cho sinh viên HUFLIT. Xin lưu ý các điểm sau:
+
+- **Trung Thực Học Thuật**: Nội dung của kho lưu trữ này nhằm mục đích làm tài liệu tham khảo hoặc hỗ trợ học tập. Sinh viên nên sử dụng những tài liệu này để nâng cao sự hiểu biết của mình, nhưng không nên sao chép trực tiếp hoặc nộp các lời giải này để tính điểm học tập.
+- **Không Đảm Bảo Độ Chính Xác**: Dù đã cố gắng để đảm bảo tính chính xác của nội dung, có thể vẫn tồn tại lỗi. Người dùng nên kiểm tra và đối chiếu lời giải trước khi sử dụng trong học tập hoặc công việc chuyên môn.
+- **Không Chịu Trách Nhiệm**: Chủ sở hữu kho lưu trữ không chịu trách nhiệm về việc sử dụng sai mục đích các tài liệu được cung cấp, bao gồm vi phạm các quy định học thuật hoặc hành vi sai trái.
+- **Tôn Trọng Bản Quyền**: Vui lòng tôn trọng quyền sở hữu trí tuệ của chủ sở hữu kho lưu trữ và các người đóng góp khác. Không phân phối lại hoặc xuất bản nội dung mà không có sự cho phép hoặc ghi nguồn đầy đủ.
+
+Khi sử dụng kho lưu trữ này, bạn đồng ý với các điều khoản trên và cam kết giữ vững sự trung thực trong học tập.
 
 ---
 
